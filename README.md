@@ -46,7 +46,7 @@ The Online Tech Shop Web is an e-commerce platform built to provide users with a
 ### Steps to Install
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rootanvir/online_tech_shop-web.git
+   git clone https://github.com/shishir786/Online-Tech-Shop.git
     ```
 2. Go to directory
     ```bash
