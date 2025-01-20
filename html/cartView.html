@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart</title>
+    <link rel="stylesheet" href="../css/cartView.css">
+    <link rel="icon" type="image/png" href="../resource/home.png">
+
+</head>
+
+<body>
+    <header class="tp" style="position: sticky;">
+        <div class="tp-left"> </div>
+        <div class="tp-middle"> </div>
+        <div class="tp-right"><a id="btn-continue-shopping" href="../index.html">Continue shopping</a>
+        </div>
+    </header>
+    <div id="cart-container">
+        <!-- Left side: Shopping cart -->
+        <div id="shopping-cart">
+            <h1>My Shopping Cart</h1>
+            <table id="cart-items-container">
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Subtotal</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Items will be dynamically rendered here -->
+                </tbody>
+            </table>
+        </div>
+        <!-- Right side: Order summary -->
+        <div id="order-summary">
+            <h2>Order Summary</h2>
+            <div class="summary-row">
+                <span>Sub Total</span>
+                <span>৳<span id="sub-total">0</span></span>
+            </div>
+            <div class="summary-row">
+                <span>Shipping Cost</span>
+                <span>৳<span id="shipping-cost">0</span></span>
+            </div>
+            <hr />
+            <div class="summary-row total">
+                <span>Total Amount</span>
+                <span>৳<span id="total-amount">0</span></span>
+            </div>
+            <!-- <div class="coupon">
+                <input type="text" id="coupon-code" placeholder="Enter your coupon code" />
+                <button id="apply-coupon">Apply</button>
+            </div> -->
+            <p class="sign-in">* Please <a href="signin.html">Sign In</a> to apply coupon</p>
+            <!-- Shopping Cart Page -->
+            <button id="proceed-to-checkout" onclick="redirectToPayment()">Proceed to Checkout</button>
+
+            <script>
+                // Redirect to the payment page
+                function redirectToPayment() {
+                    window.location.href = "payment.html"; // Path to your payment page
+                }
+            </script>
+
+
+        </div>
+
+        
+    </div>
+    <script src="../js/viewcart.js"></script>
+</body>
+
+</html>
