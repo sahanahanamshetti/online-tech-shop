@@ -1,111 +1,110 @@
 /* Poppins */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f4f4f4;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #274d60;
 }
 
 .login-container {
-    background: #ffffff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    width: 100%;
-    max-width: 400px;
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
 }
 
 .login-container h1 {
-    margin-bottom: 20px;
-    font-size: 24px;
-    text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  text-align: center;
 }
 
 .login-container form {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 .login-container label {
-    margin-bottom: 5px;
-    font-weight: bold;
+  margin-bottom: 5px;
+  font-weight: bold;
 }
-.div-btn{
-    display: flex;
-    justify-content: center;
+.div-btn {
+  display: flex;
+  justify-content: center;
 }
 
 .login-container input {
-    margin-bottom: 15px;
-    padding: 10px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+  margin-bottom: 15px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
 
 .login-container button {
-    width:80%;
-    padding: 10px;
-    font-size: 16px;
-    color: #fff;
-    background-color: #007bff;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-     transition: width 0.3s ease;
+  width: 80%;
+  padding: 10px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: width 0.3s ease;
 }
 
 .login-container button:hover {
-    width:100%;
+  width: 100%;
 }
 
 .login-container .options {
-    text-align: center;
-    margin-top: 15px;
+  text-align: center;
+  margin-top: 15px;
 }
 
 .login-container .options a {
-    color: #007bff;
-    text-decoration: none;
-    font-size: 14px;
-    margin: 0 5px;
+  color: #007bff;
+  text-decoration: none;
+  font-size: 14px;
+  margin: 0 5px;
 }
 
 .login-container .options a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 @media (max-width: 600px) {
-    .login-container {
-        padding: 15px;
-    }
+  .login-container {
+    padding: 15px;
+  }
 
-    .login-container h1 {
-        font-size: 20px;
-    }
+  .login-container h1 {
+    font-size: 20px;
+  }
 }
 
-
 .continue-shopping-btn {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    padding: 10px 15px;
-    font-size: 14px;
-    color: #fff;
-    background-color: #28a745;
-    text-decoration: none;
-    border-radius: 4px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px 15px;
+  font-size: 14px;
+  color: #fff;
+  background-color: #28a745;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .continue-shopping-btn:hover {
-    background-color: #218838;
-    transform: scale(1.05);
+  background-color: #218838;
+  transform: scale(1.05);
 }
