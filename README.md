@@ -84,17 +84,9 @@ For any queries or support, please reach out:
 3. **Saniul Islam** - [rootanvir](https://github.com/rootanvir)
 
 
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes and commit.
-4. Push changes (`git push origin feature-name`).
-5. Open a pull request for review.
-
-
 
 ## Screenshots
+Here are some screenshots of project
 ### **Customer Perspective**
   ![image](https://github.com/user-attachments/assets/af8701c1-3e69-4413-85c7-53c0469531bf)
   ![image](https://github.com/user-attachments/assets/0b43766f-2756-40f0-8c06-d8f5053a6e03)
@@ -123,9 +115,17 @@ Contributions are welcome! Please follow these steps:
   ![image](https://github.com/user-attachments/assets/856f52cf-4219-4d0d-8e0e-cae06c3a9621)
   ![image](https://github.com/user-attachments/assets/5bbb2a62-fef1-4e61-b1d6-191727a06d5d)
 
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Make your changes and commit.
+4. Push changes (`git push origin feature-name`).
+5. Open a pull request for review.
+
 ## Acknowledgments
 Thanks to the open-source community for the tools and libraries used in this project.
-
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
