@@ -93,16 +93,10 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request for review.
 
 
-## Acknowledgments
-Thanks to the open-source community for the tools and libraries used in this project.
-
-## Support
-For any issues or questions, please open an issue in the repository or contact the project owner.
-
 
 ## Screenshots
-- **Customer Perspective**
-  ![image](https://github.com/user-attachments/assets/1b44baee-e1b9-4324-bf93-f311ff83a041)
+### **Customer Perspective**
+  ![image](https://github.com/user-attachments/assets/af8701c1-3e69-4413-85c7-53c0469531bf)
   ![image](https://github.com/user-attachments/assets/0b43766f-2756-40f0-8c06-d8f5053a6e03)
   ![image](https://github.com/user-attachments/assets/484db826-5bf8-4206-b199-bef7a85735dc)
   ![image](https://github.com/user-attachments/assets/65b92e3c-9336-4000-b277-599582cd6d39)
@@ -111,7 +105,7 @@ For any issues or questions, please open an issue in the repository or contact t
 
 
 
-- **Admin Perspective**
+### **Admin Perspective**
   ![image](https://github.com/user-attachments/assets/0146028d-bda1-4e13-8c23-6c041e492717)
   ![image](https://github.com/user-attachments/assets/444f5bdd-aa31-4727-a681-05046f2fd1a9)
   ![image](https://github.com/user-attachments/assets/78b508a8-fe21-4687-bcef-3bc489dc59bd)
@@ -124,8 +118,18 @@ For any issues or questions, please open an issue in the repository or contact t
   ![image](https://github.com/user-attachments/assets/d2ae4826-3803-41c9-a543-3aab65b627a9)
 
 
-- **Manager Perspective**
+### **Manager Perspective**
   ![image](https://github.com/user-attachments/assets/14cf0bb2-8e9f-45a9-9f1c-31f98a1bd703)
   ![image](https://github.com/user-attachments/assets/856f52cf-4219-4d0d-8e0e-cae06c3a9621)
   ![image](https://github.com/user-attachments/assets/5bbb2a62-fef1-4e61-b1d6-191727a06d5d)
+
+## Acknowledgments
+Thanks to the open-source community for the tools and libraries used in this project.
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Support
+For any issues or questions, please open an issue in the repository or contact the project owner.
 
