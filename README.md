@@ -40,7 +40,7 @@ The Online Tech Shop Web is an e-commerce platform built to provide users with a
 ## Installation Guide
 
 ### Prerequisites
-- **PHP**: Local PHP server setup (WAMP, XAMP, or custom setup).
+- **PHP**: Local PHP server setup (WAMP, XAMPP, or custom setup).
 - **Database**: MySQL or a similar database for data storage.
 
 ### Steps to Install
@@ -61,7 +61,7 @@ The Online Tech Shop Web is an e-commerce platform built to provide users with a
 
 
 5. Run the PHP Server
-   - Place files in the server root (e.g., `htdocs` for XAMPP) and access the application via `localhost`.
+   - Place files in the server root (e.g., `www` for WAMP or `htdocs` for XAMPP) and access the application in the browser via `localhost`/`project_folder`.
 
 ## Default Credentials for Testing
 
