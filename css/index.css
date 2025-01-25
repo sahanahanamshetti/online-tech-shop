@@ -17,6 +17,18 @@ footer {
   padding: 1em 0;
 }
 
+.flex-NameAndSearch {
+  align-items: center;
+  gap: 20px;
+}
+
+.shopname {
+  margin-top: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #1b1b1b;
+}
+
 /* Navigation Bar */
 nav {
   background-color: #036666;
@@ -270,7 +282,6 @@ main {
   filter: brightness(1.2); /* Brighten the icon */
 }
 .home-icon {
-  margin-top: 30px;
   width: 100px; /* Adjust the size as needed */
   height: auto; /* Maintain aspect ratio */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Adds a shadow under the icon */
