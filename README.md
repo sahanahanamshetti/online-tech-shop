@@ -40,7 +40,7 @@ The Online Tech Shop Web is an e-commerce platform built to provide users with a
 ## Installation Guide
 
 ### Prerequisites
-- **PHP**: Local PHP server setup (XAMPP, WAMP, or custom setup).
+- **PHP**: Local PHP server setup (WAMP, XAMP, or custom setup).
 - **Database**: MySQL or a similar database for data storage.
 
 ### Steps to Install
